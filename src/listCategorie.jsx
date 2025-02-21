@@ -1,11 +1,11 @@
 import React from "react";
 
 const categories = [
-  { id: 888746, name: "book1", description: "Derniers modèles de smartphones équipés des meilleures technologies : processeurs puissants, caméras haute résolution, batteries longue durée et compatibilité 5G." },
-  { id: 888746, name: "book2", description: "PC portables et ordinateurs de bureau adaptés à tous les besoins : bureautique, gaming, graphisme ou développement, avec des performances optimisées et un design moderne." },
-  { id: 888746, name: "book3 ", description: "Claviers, souris, écrans, supports et autres accessoires indispensables pour améliorer le confort et la productivité de votre espace de travail." },
-  { id: 888746, name: "book4", description: "Derniers modèles de smartphones équipés des meilleures technologies : processeurs puissants, caméras haute résolution, batteries longue durée et compatibilité 5G." },
-  { id: 888746, name: "book5", description: "Consoles de jeux vidéo dernière génération, accessoires de gaming, manettes et casques dédiés pour une expérience fluide et immersive." },
+  { id: 888746, name: "Les Voyageurs du Temps ", description: "Derniers modèles de smartphones équipés des meilleures technologies : processeurs puissants, caméras haute résolution, batteries longue durée et compatibilité 5G." },
+  { id: 888746, name: "Les Ombres du Crépuscule", description: "PC portables et ordinateurs de bureau adaptés à tous les besoins : bureautique, gaming, graphisme ou développement, avec des performances optimisées et un design moderne." },
+  { id: 888746, name: "Les Ombres du Crépuscule ", description: "Claviers, souris, écrans, supports et autres accessoires indispensables pour améliorer le confort et la productivité de votre espace de travail." },
+  { id: 888746, name: "Les Héritiers de l Atlantide", description: "Derniers modèles de smartphones équipés des meilleures technologies : processeurs puissants, caméras haute résolution, batteries longue durée et compatibilité 5G." },
+  { id: 888746, name: "Les Rebelles de l Aurore", description: "Consoles de jeux vidéo dernière génération, accessoires de gaming, manettes et casques dédiés pour une expérience fluide et immersive." },
   { id: 888746, name: "book6", description: "Derniers modèles de smartphones équipés des meilleures technologies : processeurs puissants, caméras haute résolution, batteries longue durée et compatibilité 5G." },
   { id: 888746, name: "book7", description: "Disques durs HDD et SSD, clés USB et cartes mémoire avec des capacités variées pour sauvegarder et sécuriser vos fichiers importants." },
 ];

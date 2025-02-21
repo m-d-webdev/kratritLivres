@@ -7,6 +7,7 @@ import RegisterPage from '../pages/register'
 import Bibliotheque from '../pages/bibliotheque'
 import Categorie from '../pages/categorie'
 import VoirLivre from '../pages/voirLivre'
+import ListCategorie from '../listCategorie'
 
 
 const Routes = createBrowserRouter([
@@ -41,6 +42,10 @@ const Routes = createBrowserRouter([
             {
                 path: "voir_livre/:id",
                 element: <VoirLivre />
+            },
+            {
+                path: "admin/categorie",
+                element: <ListCategorie />
             },
         ]
     }

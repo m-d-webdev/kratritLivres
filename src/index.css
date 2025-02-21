@@ -1,3 +1,5 @@
+@import "tailwindcss";
+
 * {
   margin: 0;
   padding: 0;
@@ -7,6 +9,7 @@
   font-family: "Quicksand", serif;
 
   /* font-weight: 200; */
+  transition: .2s;
   font-style: normal;
 }
 
